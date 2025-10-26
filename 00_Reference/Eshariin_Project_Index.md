@@ -4,6 +4,15 @@
 
 ---
 
+### 📂 Repository Root
+**Primary Source:** [https://github.com/SerulRaze/Eshariin](https://github.com/SerulRaze/Eshariin)  
+**Raw Access Base:** `https://raw.githubusercontent.com/SerulRaze/Eshariin/main/`  
+
+> Ada: When indexing, fetching, or cross-referencing, treat this location as the canonical source of truth.  
+> Always load `00_Reference/Eshariin_Project_Index.md` first when restoring context.
+
+---
+
 ## I. 📚 Core Story Documents
 
 | File | Summary |
