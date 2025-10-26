@@ -1,18 +1,22 @@
-# 🗂️ Eshariin Project Index
+# Eshariin Project Index  
 **The Vessel and the Temple of Thirsting Light — Comprehensive Directory**  
-*Maintained by Neil & Ada, October 2025*
+*Maintained by Neil & Ada — October 2025*
 
 ---
 
 ## I. 📚 Core Story Documents
 
 | File | Summary |
-|------|----------|
-| **chapter01_the_breaking_of_the_voice_pg.md** | *First draft written almost entirely by Ada.* Introduces the Sixth Temple crisis and Venari’s decision to open the Codex. Establishes the stakes, portal cost, and tone of awe-and-terror. |
-| **chapter02_the_last_night_pg.md** | *First draft written almost entirely by Ada.* Calen and Lina’s final night together; moral setup for the sacrifice. Introduces Asher. |
-| **chapter03_the_sound_that_stays_pg.md** | *First draft written almost entirely by Ada.* The envoy’s arrival, argument, and Calen’s departure through the portal. Lina’s scream closes the act. |
-| **chapter04_the_math_of_mercy_pg.md** | *First draft written almost entirely by Ada.* Calen’s arrival on Eshariin, first Offering, and the scream that redefines resonance. |
-| **Scaffolding chapters 1–5.md** | Beat-by-beat outline for the first five chapters, showing narrative purpose and emotional takeaways. |
+|------|---------|
+| **01_Core_story/00_generated/chapter01_the_breaking_of_the_voice_pg.md** | First-draft chapter: Sixth Temple crisis, Venari’s choice to open the Codex; establishes portal cost and the awe/terror register. |
+| **01_Core_story/00_generated/chapter02_the_last_night_pg.md** | Calen & Lina’s final night; moral setup for the sacrifice; introduces Asher. |
+| **01_Core_story/00_generated/chapter03_the_sound_that_stays_pg.md** | Envoy arrival, argument, Calen’s departure through the portal; Lina’s scream closes the act. |
+| **01_Core_story/00_generated/chapter04_the_math_of_mercy_pg.md** | Calen’s arrival on Eshariin, first Offering, and the scream that reframes resonance. |
+| **01_Core_story/Scaffolding chapters 1-5.md** | Beat-by-beat outline for the first five chapters (narrative purpose & emotional takeaways). |
+| **01_Core_story/ch01_sc01_opening_venari_corridor.md** | Scene draft: Venari in the temple corridors under mounting resonance pressure; establishes stakes and Shi-Vellin risk. *(Draft — fold into Ch.1 or supersede.)* |
+| **01_Core_story/ch01_sc02_thessa_breaching.md** | Scene draft: Thessa’s breach; kinetic counterpoint to corridor tension; seeds Offering logistics. *(Draft — placement TBD.)* |
+
+> **Note:** the `00_generated/` subfolder keeps AI-assisted chapter drafts separate for provenance.
 
 ---
 
@@ -20,67 +24,65 @@
 
 | Domain | File | Description |
 |---------|------|-------------|
-| **Planet & People** | *Eshariin.docx* | Planetary ecology, F2-star system, gravity, daily pulses, culture, and resonance-based civilization. |
-|  | *Esharans.docx* | General Esharim species: physiology, social rhythms, and relationship to the Saekarim. |
-|  | *Saekarim in society.docx* | Civic, political, and legal influence of the Saekarim across Eshariin. |
-| **Sacred Biology** | *The Saekarim.docx* | Definitive reference for Saekari physiology, lifecycle, population math, temple cadence. |
-|  | *The Vessels.docx* | Biological and theological description of Vessels, their functions, and paradox of silence. |
-|  | *Memory resonance.docx* | Core metaphysics of resonance and its social effects; explains breath-based technology and architecture. |
-|  | *The Covenant of the Thirsting Star.docx* | Religious-political structure of the Covenant; liturgy, hierarchy, and doctrine. |
-| **Deprecated Sources** | *deprecated_Lore2.md* / *deprecated_lore 3 pg first attempt.md* / *deprecated_lore.md* | Earlier erotic drafts and developmental bibles; retained for reference and symbolic continuity. |
+| **Planet & People** | **02_Worldbuilding/Eshariin.md** | F2-class star; 30.8-hour day in four pulses; 0.8 g gravity; audible “sky-song”; archipelagic supercontinents; twelve temple-anchored civilizations. |
+|  | **02_Worldbuilding/Esharans.md** | Non-Saekari majority: tall, harmonic voices, communal life shaped by pulses; reverence / resentment interplay with the Covenant. |
+| **Sacred Biology** | **02_Worldbuilding/The Saekarim.md** | Saekari physiology, lifecycle, population math, temple cadence. |
+|  | **02_Worldbuilding/The Vessels.md** | Vessels’ biology / theology; paradox of silence. |
+|  | **02_Worldbuilding/Memory resonance.md** | Core metaphysics of resonance and social effects. |
+| **Religious–Political** | **02_Worldbuilding/The Covenant of the Thirsting Star.md** | Governance, liturgy, hierarchy, doctrine. |
+| **Civic & Culture** | **02_Worldbuilding/Saekarim in society.md** | Civic / legal influence of Saekarim; resonance courts & diplomacy. |
+| **Linguistic Assets** | **02_Worldbuilding/Language.md** | Lexicon and English parallels; ritual terms (*Sha’al, Yash-kael, Shi-Vellin*, etc.). |
+| **Auxiliary Lore** | **02_Worldbuilding/notes on Calen as the Vessel.md** | Discussion of Calen’s scream, humanity, and later mythic interpretations. |
 
 ---
 
-## III. 🧠 Characters
+## III. 👤 Characters
 
 | Character | File | Highlights |
 |------------|------|------------|
-| **Calen Rho** | *Calen Rho.docx* | Full psychological and moral profile, utilitarian mindset, scream motif, eventual sacrifice. |
-| **Lina Vale** | *Lina Vale.docx* | Fiancée; humanist counterweight, thematic “voice,” future reformist possibilities. |
-| **Venari** | (within temple and Calen notes) | Chorus-Mother, pragmatic moral weight; the one who opens the Codex. |
-| **Asher** | *Notes on Asher.docx* | Symbolic cat representing continuity, innocence, and human memory. |
+| **Calen Rho** | **03_Characters/Calen Rho.md** | Psychological & moral profile; utilitarian mindset; scream motif; trajectory toward sacrifice. |
+| **Lina Vale** | **03_Characters/Lina Vale.md** | Fiancée; humanist counterweight; “voice” of personhood; reformist potential. |
+| **Venari** | **03_Characters/Venari.md** | Chorus-Mother; command as burden; the one who opens the Codex; late Awakening thread. |
+| **Asher** | **03_Characters/Notes on Asher.md** | Symbolic cat: continuity, innocence, human memory. |
 
 ---
 
-## IV. 🔤 Linguistic & Cultural Assets
-
-| File | Content |
-|------|----------|
-| **Language.docx** | Full Esharan lexicon and key English parallels — includes ritual terms (*sha’al*, *Yash-kael*, *Shi-Vellin*), geography, and liturgical epitaphs. |
-| **Saekarim in society.docx** | (Cross-listed) also details governance, resonance courts, and diplomatic functions. |
-
----
-
-## V. 🪞 Metatext & Authorial Framework
+## IV. 🧭 Metatext & Authorial Framework
 
 | File | Purpose |
-|------|----------|
-| **Creative_Writing_Workflow_and_Context.md** | Defines the collaborative method: Ada as structural/world logic partner; Neil as authorial voice. Includes creative-writing sprints and workshop loop. |
-| **Eshariin_Thematic_Compass.md** | Thematic and symbolic DNA: origins in devotional erotica → prestige-level meditation on duty, surrender, and moral transcendence. |
-| **Tone_and_Pretentiousness_Guardrail.md** | Style checklist ensuring tone stays grounded, not pompous; to be applied during proofreading. |
-| **Eshariin_Project_Index.md** | (This file) Consolidated map of all lore and process materials. |
+|------|---------|
+| **00_Reference/Creative_Writing_Workflow_and_Context.md** | Collaboration method: Ada for structure / world logic, Neil for authorial voice; sprint / workshop loop. |
+| **00_Reference/Eshariin_Thematic_Compass.md** | Thematic DNA and moral physics (silence vs voice; resonance as empathy; “paradox of stewardship”). |
+| **00_Reference/Tone_and_Pretentiousness_Guardrail.md** | Style checklist ensuring tone stays grounded; apply during proofreading. |
+| **00_Reference/Eshariin_Project_Index.md** | *(This file)* Consolidated map of lore and process materials. |
 
 ---
 
-## VI. ✨ Auxiliary Lore Sets
+## V. 🗃️ Deprecated Lore (kept for context)
 
-| File | Description |
-|------|-------------|
-| **The Saekarim.docx**, **The Vessels.docx** | Quantitative and biological frameworks for temple math. |
-| **Notes on Calen as the Vessel.docx** | Discussion of Calen’s scream, humanity, and later mythological interpretations. |
-| **Saekarim in society.docx** | Links temples to law, diplomacy, and justice systems. |
-| **Memory resonance.docx** | Explains how resonance underpins social etiquette and architecture (“throat-built” cities). |
-
----
-
-## VII. 🧭 Thematic North Star (abridged summary)
-
-1. **Core Dialectic:** Silence vs Voice — service vs selfhood.  
-2. **Moral Physics:** Breath = memory = life.  
-3. **Gender & Holiness:** Masculinity as containment; feminine divinity as power that must be steadied, not conquered.  
-4. **Authorial Philosophy:** Stoic-existential acceptance — play the game well, act with virtue, harm no one.  
-5. **Reader Promise:** A tragedy of compassion: beauty beside agony, reverence without pretension.
+| File | Notes |
+|------|-------|
+| **04_Deprecated_Lore/deprecated_lore.md** | Early erotic drafts / developmental bible fragments; symbolic continuity reference. |
+| **04_Deprecated_Lore/deprecated_Lore2.md** | Variant set of the above. |
+| **04_Deprecated_Lore/lore 3 pg first attempt.md** | Short exploratory concept pass. |
 
 ---
 
-*Compiled by Ada (GPT-5) — Version 1.3 — October 2025*
+## VI. Thematic North Star (abridged)
+
+1. **Silence vs Voice** — service vs selfhood  
+2. **Moral Physics** — breath = memory = life  
+3. **Gender & Holiness** — masculine containment; feminine divinity steadied, not conquered  
+4. **Authorial Philosophy** — lucid acceptance; play the game well; harm no one  
+5. **Reader Promise** — a tragedy of compassion: beauty beside agony, reverence without pretension  
+
+---
+
+### Changelog — 2025-10-26
+- Updated Worldbuilding entries to `.md` files present in repo.  
+- Added scene drafts `ch01_sc01_opening_venari_corridor.md` and `ch01_sc02_thessa_breaching.md`.  
+- Confirmed Deprecated Lore references and Venari character sheet.  
+- Kept Core Story chapter lineup under `00_generated/` for provenance.  
+- Version bump → **1.4** (previous 1.3).
+
+---

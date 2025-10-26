@@ -1,0 +1,28 @@
+https://raw.githubusercontent.com/SerulRaze/Eshariin/main/00_Reference/Creative_Writing_Workflow_and_Context.md
+https://raw.githubusercontent.com/SerulRaze/Eshariin/main/00_Reference/Eshariin_Project_Index.md
+https://raw.githubusercontent.com/SerulRaze/Eshariin/main/00_Reference/Eshariin_Thematic_Compass.md
+https://raw.githubusercontent.com/SerulRaze/Eshariin/main/00_Reference/Tone_and_Pretentiousness_Guardrail.md
+https://raw.githubusercontent.com/SerulRaze/Eshariin/main/01_Core_story/00_generated/chapter01_the_breaking_of_the_voice_pg.md
+https://raw.githubusercontent.com/SerulRaze/Eshariin/main/01_Core_story/00_generated/chapter02_the_last_night_pg.md
+https://raw.githubusercontent.com/SerulRaze/Eshariin/main/01_Core_story/00_generated/chapter03_the_sound_that_stays_pg.md
+https://raw.githubusercontent.com/SerulRaze/Eshariin/main/01_Core_story/00_generated/chapter04_the_math_of_mercy_pg.md
+https://raw.githubusercontent.com/SerulRaze/Eshariin/main/01_Core_story/Scaffolding chapters 1-5.md
+https://raw.githubusercontent.com/SerulRaze/Eshariin/main/01_Core_story/ch01_sc01_opening_venari_corridor.md
+https://raw.githubusercontent.com/SerulRaze/Eshariin/main/01_Core_story/ch01_sc02_thessa_breaching.md
+https://raw.githubusercontent.com/SerulRaze/Eshariin/main/02_Worldbuilding/Esharans.md
+https://raw.githubusercontent.com/SerulRaze/Eshariin/main/02_Worldbuilding/Eshariin.md
+https://raw.githubusercontent.com/SerulRaze/Eshariin/main/02_Worldbuilding/Language.md
+https://raw.githubusercontent.com/SerulRaze/Eshariin/main/02_Worldbuilding/Memory resonance.md
+https://raw.githubusercontent.com/SerulRaze/Eshariin/main/02_Worldbuilding/Saekarim in society.md
+https://raw.githubusercontent.com/SerulRaze/Eshariin/main/02_Worldbuilding/The Covenant of the Thirsting Star.md
+https://raw.githubusercontent.com/SerulRaze/Eshariin/main/02_Worldbuilding/The Saekarim.md
+https://raw.githubusercontent.com/SerulRaze/Eshariin/main/02_Worldbuilding/The Vessels.md
+https://raw.githubusercontent.com/SerulRaze/Eshariin/main/02_Worldbuilding/notes on Calen as the Vessel.md
+https://raw.githubusercontent.com/SerulRaze/Eshariin/main/03_Characters/Calen Rho.md
+https://raw.githubusercontent.com/SerulRaze/Eshariin/main/03_Characters/Lina Vale.md
+https://raw.githubusercontent.com/SerulRaze/Eshariin/main/03_Characters/Notes on Asher.md
+https://raw.githubusercontent.com/SerulRaze/Eshariin/main/03_Characters/Venari.md
+https://raw.githubusercontent.com/SerulRaze/Eshariin/main/04_Deprecated_Lore/deprecated_Lore2.md
+https://raw.githubusercontent.com/SerulRaze/Eshariin/main/04_Deprecated_Lore/deprecated_lore.md
+https://raw.githubusercontent.com/SerulRaze/Eshariin/main/04_Deprecated_Lore/lore 3 pg first attempt.md
+https://raw.githubusercontent.com/SerulRaze/Eshariin/main/readme.md
